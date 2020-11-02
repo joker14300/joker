@@ -8,9 +8,7 @@ $ apt install python
 
 $ apt install git
 
-$ git clone https://github.com/joker14300/joker/commit/0a7587197e97640ef61cadb29f9a9acd4b8c8957
-
-$ cd NewLogin
+$ git clone https://github.com/joker14300/joker cd NewLogin
 
 $ python -m pip install -r requirements.txt
 
@@ -20,7 +18,7 @@ $ python3 sby.py
 
 Installation for VPS
 
-$ git clone https://github.com/joker14300/joker/commit/0a7587197e97640ef61cadb29f9a9acd4b8c8957
+$ git clone git clone https://github.com/joker14300/joker
 
 $ cd NewLogin
 
