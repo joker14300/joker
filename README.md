@@ -8,7 +8,7 @@ $ apt install python
 
 $ apt install git
 
-$ git clone https://github.com/Myyepz/NewLogin
+$ git clone https://github.com/joker14300/joker/commit/0a7587197e97640ef61cadb29f9a9acd4b8c8957
 
 $ cd NewLogin
 
@@ -20,7 +20,7 @@ $ python3 sby.py
 
 Installation for VPS
 
-$ git clone https://github.com/Myyepz/NewLogin
+$ git clone https://github.com/joker14300/joker/commit/0a7587197e97640ef61cadb29f9a9acd4b8c8957
 
 $ cd NewLogin
 
